@@ -1,5 +1,5 @@
-import React, { useState, useRef, useEffect } from 'react';
-import { Mic, MicOff, PhoneOff, Phone, Volume2, Activity } from 'lucide-react';
+import { useState, useRef, useEffect } from 'react';
+import { Mic, PhoneOff, Phone, Volume2, Activity } from 'lucide-react';
 import { showToast } from '../App';
 import { BACKEND_URL, WS_URL } from '../config';
 
