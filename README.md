@@ -185,8 +185,8 @@ Contributions are welcome.
 ---
 
 ## 🧩 Author
-Parameshwaran S
-C.Monish Nandha Balan
-Kavibharathi K
+Parameshwaran S,
+C Monish Nandha Balan,
+Kavibharathi K,
 Dharshan Kumar K
 🔗 [GitHub](https://github.com/MONISHC21)
