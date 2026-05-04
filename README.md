@@ -132,7 +132,13 @@ npm run dev
 * The AGI script loops `faster-whisper` transcription into Dialora LLM response generation, bridging real phone calls securely to your local hardware.
 
 ---
+<img width="1361" height="756" alt="Image" src="https://github.com/user-attachments/assets/5704c51f-99a5-4405-9128-66edda32ad6e" />
 
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/119bada5-a777-4e37-993f-5ce890ef2346" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/e712f974-19dc-4cd7-812a-4e8cf5be7a94" />
+
+---
 ## 📈 Scalability
 * The local AI backend architecture can be decoupled and migrated into Dockerized Cloud GPUs (using vLLM) allowing dozens of concurrent simulated calls to execute simultaneously.
 * The WebSocket streaming events are isolated to allow infinite external monitor interfaces to sub-pub to the live broadcast channel natively.
