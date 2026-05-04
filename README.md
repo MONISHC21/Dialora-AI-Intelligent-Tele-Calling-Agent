@@ -81,7 +81,7 @@ Dialora/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/imnotparama/Dialora.git
+git clone https://github.com/MONISHC21/Dialora-AI-Intelligent-Tele-Calling-Agent.git
 cd Dialora
 ```
 
@@ -183,4 +183,4 @@ Parameshwaran S
 C.Monish Nandha Balan
 Kavibharathi K
 Dharshan Kumar K
-🔗 [GitHub](https://github.com/imnotparama)
+🔗 [GitHub](https://github.com/MONISHC21)

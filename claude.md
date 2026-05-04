@@ -14,8 +14,8 @@ Dialora is an **AI-powered tele-calling agent** built for a hackathon. It was pi
 - **Emotional Intelligence** — A **dedicated HuggingFace distilRoBERTa classifier** detects the caller's emotional state from their text. The LLM adapts its response strategy accordingly.
 - **Low-latency streaming** — Ollama responses stream sentence-by-sentence.
 
-**Project directory:** `c:\Users\hunte\Fantastic Four - Dialora\`
-**GitHub:** `https://github.com/imnotparama/Dialora` (branch: `main`)
+**Project directory:** `D:\Dialora-main\`
+**GitHub:** `https://github.com/MONISHC21/Dialora-AI-Intelligent-Tele-Calling-Agent.git` (branch: `main`)
 
 ---
 
